@@ -193,40 +193,45 @@ td
 	border-left:none;}
 .xl88
 	{mso-style-parent:style0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl89
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl90
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-style:italic;
+	mso-number-format:"d\\-mmm";
+	text-align:center;
+	vertical-align:middle;}
+.xl91
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-style:italic;
+	mso-number-format:"d\\-mmm";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl92
+	{mso-style-parent:style0;
 	font-size:10.0pt;
 	font-style:italic;
 	mso-number-format:"d\\-mmm";
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
-	border-right:.5pt solid black;
-	border-bottom:none;
-	border-left:none;}
-.xl89
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-style:italic;
-	mso-number-format:"d\\-mmm";
-	text-align:center;
-	vertical-align:middle;}
-.xl90
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-style:italic;
-	text-align:center;
-	vertical-align:middle;}
-.xl91
-	{mso-style-parent:style0;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
-.xl92
-	{mso-style-parent:style0;
-	border-top:none;
-	border-right:.5pt solid windowtext;
+	border-right:none;
 	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;}
+	border-left:none;}
 .xl93
 	{mso-style-parent:style0;
 	font-size:10.0pt;
@@ -242,6 +247,7 @@ td
 	{mso-style-parent:style0;
 	font-size:10.0pt;
 	font-style:italic;
+	mso-number-format:"d\\-mmm";
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
@@ -258,15 +264,4 @@ td
 	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:none;
-	border-left:none;}
-.xl96
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-style:italic;
-	mso-number-format:"d\\-mmm";
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
 	border-left:none;}
